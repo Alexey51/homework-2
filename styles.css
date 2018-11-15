@@ -1,0 +1,27 @@
+div{
+	padding:5px;
+	border:green 2px solid;
+}
+li{
+	 list-style-type: none;
+}
+li:first-child{
+	border-bottom:3px black solid;
+	font-size:30px
+}
+li:last-child {
+	border-bottom:1px red solid;
+	
+}.qwe:hover{
+	color:red;
+	border-bottom:1px blue solid;
+}
+body div header h1 a img{
+	     width: 50%;
+    height: 50%;
+}
+tr:nth-child(even){
+	background-color:black;
+	color:#fff;
+	 
+}
